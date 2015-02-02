@@ -1,5 +1,4 @@
 set nocompatible
-set mouse=a
 set noeb
 set autoindent
 set softtabstop=4
